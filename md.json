@@ -4,7 +4,7 @@
     "homepage": "https://github.com/Cishoon/md",
     "license": "MIT",
     "url": "https://github.com/Cishoon/md/archive/refs/tags/v1.4.0.zip",
-    "hash": "",
+    "hash": "c56539311a37e800548adc16687d8664fce202d74a2b1ec06c685db62f64e1d7",
     "extract_dir": "md-1.4.0",
     "psmodule": {
         "name": "MessageDump"
